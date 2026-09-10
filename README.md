@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -41,5 +44,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
