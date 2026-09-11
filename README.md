@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0099-recover-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0090-subsets-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
