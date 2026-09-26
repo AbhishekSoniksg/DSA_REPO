@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0097-interleaving-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0097-interleaving-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
