@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0097-interleaving-string) |
+| [0856-score-of-parentheses](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -114,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
