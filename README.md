@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
 |  |
 | ------- |
