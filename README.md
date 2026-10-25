@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0090-subsets-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
+| [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3483-unique-3-digit-even-numbers) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0092-reverse-linked-list-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
