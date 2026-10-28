@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3483-unique-3-digit-even-numbers) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0090-subsets-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
