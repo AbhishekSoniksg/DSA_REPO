@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [2409-count-days-spent-together](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0090-subsets-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Stack
 |  |
