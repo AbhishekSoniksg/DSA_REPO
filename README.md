@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
+| [2409-count-days-spent-together](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3863-minimum-operations-to-sort-a-string) |
