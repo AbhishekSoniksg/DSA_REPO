@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3483-unique-3-digit-even-numbers) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
