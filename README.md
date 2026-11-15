@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0096-unique-binary-search-trees) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [1254-number-of-closed-islands](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1254-number-of-closed-islands) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1882-process-tasks-using-servers) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0097-interleaving-string) |
 | [0486-predict-the-winner](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -214,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AbhishekSoniksg/DSA_REPO/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
